@@ -1,4 +1,4 @@
-!!!!! DEPRECATED and No longer Supported !!!!
+!!!!! No longer supported and do not open support cases if you have issue with this tool, the code is available if you have issues !!!!
 ===========
 AppDLicenseCount
 ===========
